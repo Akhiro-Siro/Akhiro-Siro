@@ -24,9 +24,10 @@
 <br />
 <br />
 ---
+
+
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://www.instagram.com/siro_saputra/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/siro_saputra/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/siro_saputra/#gh-light-mode-only)[![website](./img/instagram-dark.svg)](https://www.instagram.com/siro_saputra/#gh-dark-mode-only)
 
 ## project
-[SAI-ID]: (https://github.com/SAI-ID)
+[SAI-ID](https://github.com/SAI-ID)
