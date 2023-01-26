@@ -2,7 +2,6 @@
 ## About me:  
 - 🔭 I’m not working  
 - 🌱 I’m currently learning Python  
-- 👯 I’m looking to collaborate as Data Analyst  
 - 💬 Ask me about anything  
 - 📫 How to reach me: putrasaputraputra021@gmail.com  
 
